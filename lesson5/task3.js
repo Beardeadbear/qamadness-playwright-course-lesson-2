@@ -32,5 +32,6 @@ function generatePassword(length) {
     return password;
 }
 
-// Тестуємо функцію з довжиною 8 символів
+
+
 console.log("Згенерований пароль:", generatePassword(8));
